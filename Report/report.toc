@@ -1,0 +1,41 @@
+\contentsline {chapter}{Executive Summary}{3}{chapter*.2}
+\contentsline {section}{Summary of Main Results}{3}{section*.3}
+\contentsline {section}{Contribution Rate}{3}{section*.5}
+\contentsline {section}{Basic Membership Information}{4}{section*.8}
+\contentsline {section}{Key Assumptions}{4}{section*.10}
+\contentsline {chapter}{Introduction}{5}{chapter*.12}
+\contentsline {section}{Purpose}{5}{section*.13}
+\contentsline {section}{Summary of Changes Since the Last Valuation}{5}{section*.14}
+\contentsline {section}{Subsequent Events}{6}{section*.15}
+\contentsline {chapter}{Valuation Results - Going-Concern}{7}{chapter*.16}
+\contentsline {section}{Financial Position}{7}{section*.17}
+\contentsline {section}{Change in Going-Concern Financial Position}{7}{section*.18}
+\contentsline {section}{Commentary of Gain and Loss}{8}{section*.19}
+\contentsline {section}{Current Service Cost}{9}{section*.20}
+\contentsline {section}{Discount Rate Sensitivity}{10}{section*.21}
+\contentsline {chapter}{Valuation Results - Solvency}{11}{chapter*.22}
+\contentsline {section}{Solvency Financial Position}{11}{section*.23}
+\contentsline {section}{Impact of Plan Wind-up}{11}{section*.24}
+\contentsline {section}{Solvency Incremental Cost}{12}{section*.25}
+\contentsline {section}{Discount Rate Sensitivity}{12}{section*.26}
+\contentsline {chapter}{Actuarial Certificate}{13}{chapter*.27}
+\contentsline {section}{Opinion}{13}{section*.28}
+\contentsline {chapter}{Appendix A: Plan Assets}{15}{chapter*.30}
+\contentsline {section}{Asset Allocation}{15}{section*.31}
+\contentsline {section}{Reconciliation of Market Value of Assets}{15}{section*.32}
+\contentsline {section}{Investment Income}{16}{section*.33}
+\contentsline {chapter}{Appendix B: Membership Data}{17}{chapter*.34}
+\contentsline {section}{Source of Membership Data}{17}{section*.35}
+\contentsline {section}{Membership Reconciliation}{17}{section*.36}
+\contentsline {section}{Membership Summary}{18}{section*.38}
+\contentsline {chapter}{Appendix C: Methods and Assumptions - Going-Concern}{20}{chapter*.39}
+\contentsline {section}{Margins}{20}{section*.40}
+\contentsline {section}{Going-Concern Assumptions}{21}{section*.41}
+\contentsline {section}{Going-Concern Actuarial Cost Method}{23}{section*.42}
+\contentsline {section}{Going-Concern Asset Valuation Method}{24}{section*.43}
+\contentsline {chapter}{Appendix D: Methods and Assumptions - Solvency}{25}{chapter*.44}
+\contentsline {section}{Solvency Assumptions}{26}{section*.45}
+\contentsline {section}{Solvency Actuarial Cost Method}{26}{section*.46}
+\contentsline {section}{Solvency Asset Valuation Method}{26}{section*.47}
+\contentsline {section}{Incremental Cost on a Solvency Basis}{26}{section*.48}
+\contentsline {chapter}{Appendix E: Summary of Plan Provisions}{28}{chapter*.49}

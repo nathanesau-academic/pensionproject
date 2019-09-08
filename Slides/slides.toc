@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Valuation provisions}{3}{0}{1}
+\beamer@sectionintoc {2}{Valuation Results}{4}{0}{2}
+\beamer@sectionintoc {3}{2013 Going-Concern Gain and Loss}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Experience}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Change in Provisions and Assumptions}{9}{0}{3}
+\beamer@sectionintoc {4}{Sensitivity Impact}{19}{0}{4}
+\beamer@sectionintoc {5}{Recommendations}{20}{0}{5}
